@@ -1,0 +1,7 @@
+inky
+beautifulsoup4
+font_fredoka_one 
+font_intuitive 
+font_hanken_grotesk
+geocoder 
+requests 
