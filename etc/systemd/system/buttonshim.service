@@ -5,8 +5,8 @@ After=network.target
 [Service]
 User=pi
 Group=pi
-WorkingDirectory=/home/pi/pizero-inky-button
-ExecStart=/home/pi/pizero-inky-button/btn_service.py
+WorkingDirectory=/home/pi/rpi-inky-phat
+ExecStart=/home/pi/rpi-inky-phat/buttonshim.py
 PrivateTmp=true
 Restart=always
 RestartSec=10
